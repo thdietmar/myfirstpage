@@ -1,0 +1,126 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(82, 80, 80);
+    background-color: rgb(245, 240, 240);
+    background-image: url(../IMAGES/city.jpg);
+    background-repeat: no-repeat;
+   }
+ 
+   a {
+       color: black;
+   }
+
+.navbar {
+    background-color: rgb(112, 153, 155, 0.8);
+    margin-top: 75;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: rgb(82, 80, 80);
+    font-size: 22px;
+    border: solid 2px rgb(90, 89, 89);
+    border-radius: 5px;
+    padding: 4px;  
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 20px;
+}
+
+h1 {
+    margin-top: 65px;
+    font-size: 50px;
+    text-align: center;
+}
+
+h3, span {
+    font-size: 22px;
+    font-weight: 800; 
+    text-align: center;
+}
+
+span {
+    border-bottom: 2px solid  rgb(82, 80, 80);
+    border-top: 2px solid  rgb(82, 80, 80);
+    padding: 5px;
+}
+
+.flex-container {
+    background-color: rgb(235, 229, 229);
+    font-size: 21px;
+    line-height: 35px;
+    border: none;
+    border-radius: 0 0 10px 10px;
+    margin: 77px 58px 30px 58px;
+    padding: 30px 70px;
+    display: flex;
+}
+
+.flex-item {
+    flex: 1;
+}
+
+#profile {
+    width: 250px;
+    margin-top:  40px;
+    margin-left: 320px;
+}
+
+.flex-container-lists {
+    display: flex;
+}
+
+.flex-item-lists {
+    background-color: rgb(235, 229, 229);
+    font-size: 21px;
+    line-height: 35px;
+    border: none;
+    border-radius: 10px;
+    margin: 5px 58px;
+    padding: 40px;
+    flex: 1;
+}
+
+footer {
+    text-align: center;
+    padding: 40px;
+}
+
+.social-links a {
+    margin: 60px;
+}
+
+.social-links img {
+    height: 50px;
+    opacity: 0.5;
+}
+
+footer .imprint {
+    text-align: center;
+    margin-top: 10px;
+    padding: 30px;
+}
+
+footer .imprint a {
+    color: rgb(99, 97, 97);
+    font-size: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,71 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(82, 80, 80);
+    background-color: rgb(245, 240, 240);
+    background-image: url('https://newevolutiondesigns.com/images/freebies/city-wallpaper-18.jpg');
+   }
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+main {
+    margin-top: 65px;
+    margin-right: 10px;
+    text-align: right;
+}
+
+.navbar {
+    background-color: rgb(112, 153, 155, 0.8);
+    margin-top: 75;
+   
+}
+
+.navbar a {
+    text-decoration: none;
+    color: rgb(82, 80, 80);
+    font-size: 22px;
+    border: solid 2px rgb(90, 89, 89);
+    border-radius: 5px;
+    padding: 4px;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 20px;
+}
+
+.social-links,
+img {
+    margin: 90px;
+    height: 50px;
+    text-align: center;
+    opacity: 0.7;
+}
+
+footer .imprint {
+    text-align: center;
+    margin-top: 120px;
+    padding: 30px;
+}
+
+footer .imprint a {
+    color: black;
+    font-size: 19px;
+}
+
+
+
+
+
+
+
+
+
+
+

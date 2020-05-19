@@ -1,0 +1,64 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(82, 80, 80);
+    background-color: rgb(245, 240, 240);
+    background-image: url(../IMAGES/city.jpg);
+    background-repeat: no-repeat;
+   }
+
+.navbar {
+    background-color: rgb(112, 153, 155, 0.8);
+    margin-top: 75;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: rgb(82, 80, 80);
+    font-size: 22px;
+    border: solid 2px rgb(90, 89, 89);
+    border-radius: 5px;
+    padding: 4px;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 20px;
+}
+
+a {
+    color: black;
+}
+
+h1 {
+    margin-top: 65px;
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+.address {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.social-links,
+img {
+    height: 50px;
+    text-align: center;
+    margin: 40px 60px;
+    opacity: 0.7;
+}
+
+footer .imprint {
+    text-align: center;
+    margin-top: 60px;
+    padding: 30px;
+}
+
+footer .imprint a {
+    color: rgb(99, 97, 97);
+    font-size: 17px;
+}
